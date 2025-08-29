@@ -1,4 +1,4 @@
-# Hi, I’m **Sadina** 👋
+# Hi, I’m **Sadina** 
 
 **Sr. PM / TPM — AI Transformation — Remote‑first Leader — Future CINO**
 
@@ -12,7 +12,7 @@ safely, measurably, and with heart.
 - **Narrative + numbers**: crisp exec storytelling backed by metrics
 - **Distributed leadership**: calm, kind, high standards across time zones
 
-### A few wins I’m proud of (sanitized)
+### A few wins I’m proud of 
 - Turned ambiguous AI explorations into **measurable productivity gains** for large, global teams
 - Built **lightweight governance** that let product teams move fast *and* pass privacy/security reviews
 - Scaled enablement with **short, lovable playbooks** that people actually use
@@ -22,8 +22,7 @@ Agents that do one thing extremely well, evaluation harnesses that keep us hones
 teams move quickly without drama.
 
 ### Find me
-- LinkedIn: _add your URL here_
-- Email: _preferred public contact_
-- Writing: _blog/Substack if applicable_
+- LinkedIn: www.linkedin.com/in/sadina.wagner
+- Email: sadina.wagner@gmail.com
 
 > If you care about building things that help people—and you like clear plans with real results—we’ll get along.
