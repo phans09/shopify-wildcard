@@ -1,25 +1,29 @@
-#  Shopify Wildcard — Proof of Excellence
+# Hi, I’m **Sadina** 👋
 
-**Author:** Sadina  
-**Theme:** Turning frontier ideas into products and programs that ship.
+**Sr. PM / TPM — AI Transformation — Remote‑first Leader — Future CINO**
 
-This is a tight, human portfolio built for the **Wildcard** path
-how I think, how I lead, and how I deliver. It’s fast to skim but deep enough to trust.
+I build the bridges between *frontier tech* and *real‑world outcomes*. My sweet spot is taking a fuzzy idea,
+writing the story everyone can rally around, and shipping the first version that proves value—
+safely, measurably, and with heart.
 
-## Quick Tour
--  [01 — Customer Zero AI Playbook](docs/01-customer-zero-ai-playbook.md)
--  [02 — Innovation Operating Model](docs/02-innovation-operating-model.md)
--  [03 — Remote Leadership Playbook](docs/03-remote-leadership-playbook.md)
--  [04 — 90‑Day Plan for Shopify](docs/04-90-day-plan-shopify.md)
--  [05 — Case Studies (Sanitized)](docs/05-case-studies.md)
--  [06 — Enablement Toolkit Outline](docs/06-enablement-toolkit.md)
--  [07 — Metrics That Matter](docs/07-metrics-that-matter.md)
--  [08 — Proof Links](docs/08-proof-links.md)
+### What I’m great at
+- **Customer‑Zero style pilots** that become the company playbook
+- **Responsible AI**: data pathways, safety reviews, evaluation loops
+- **Narrative + numbers**: crisp exec storytelling backed by metrics
+- **Distributed leadership**: calm, kind, high standards across time zones
 
-## 10‑Second Summary
-I create clarity in the fog, ship the first proof, and leave a system others can scale—
-with responsible AI and a culture people enjoy working in.
+### A few wins I’m proud of (sanitized)
+- Turned ambiguous AI explorations into **measurable productivity gains** for large, global teams
+- Built **lightweight governance** that let product teams move fast *and* pass privacy/security reviews
+- Scaled enablement with **short, lovable playbooks** that people actually use
 
-## Contact
-- LinkedIn: www.linkedin.com/in/sadina-wagner
-- Email: sadinq.wagner@gmail.com
+### What I’m exploring now
+Agents that do one thing extremely well, evaluation harnesses that keep us honest, and operating models that help
+teams move quickly without drama.
+
+### Find me
+- LinkedIn: _add your URL here_
+- Email: _preferred public contact_
+- Writing: _blog/Substack if applicable_
+
+> If you care about building things that help people—and you like clear plans with real results—we’ll get along.
