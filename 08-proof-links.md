@@ -5,4 +5,4 @@ Add public links that demonstrate excellence (no confidential info):
 - Blog / Substack posts
 - Conference talks / podcasts
 - Open‑source contributions or sample repos
-- Articles that reference your work (if public)
+- Articles that reference your work (if public) on
